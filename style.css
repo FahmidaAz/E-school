@@ -77,14 +77,14 @@ h2{
     margin-top: 60px;
 }
 .man{
-    width: 100px;
-    height: 100px;
+    width: 300px;
+    height: 300px;
 }
 .Test{
     display:flex;
     justify-content: center;
     align-items: center;
-    margin: 100px 250px;
+    margin: 100px 150px;
 }
 .blod{
     font-weight: bold;
